@@ -2,7 +2,7 @@ const { Router } = require('express');
 
 const StockRoutes = require('../api/Stock/index');
 
-const UserRoutes = require('../api/user/index');
+const UserRoutes = require('./../api/user/index');
 
 const router = new Router();
 
