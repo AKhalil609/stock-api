@@ -14,3 +14,5 @@ router.patch('/', Stock.updateStock);
 router.get('/:symbol', Stock.getStock);
 
 module.exports = router;
+
+// adding
