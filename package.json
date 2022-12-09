@@ -20,7 +20,7 @@
     "eslint-plugin-flowtype": "^2.49.3",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongoose": "^5.1.6",
     "morgan": "^1.9.0",
     "node-async-loop": "^1.2.2",
