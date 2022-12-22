@@ -16,7 +16,7 @@
     "cookie-parser": "^1.4.3",
     "dust": "^0.3.0",
     "dustjs-helpers": "^1.7.4",
-    "dustjs-linkedin": "^2.7.5",
+    "dustjs-linkedin": "^3.0.0",
     "eslint-plugin-flowtype": "^2.49.3",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
